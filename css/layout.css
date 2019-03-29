@@ -1,0 +1,30 @@
+body{
+background-color: #b7b7b7;
+}
+
+footer{
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 35px;
+  width: 100%;
+  font-size: 25px;
+  font-style: italic;
+  background-color: #64fccf;
+  color: blacl;
+}
+ .topbar{
+padding-top: -30px;
+ }
+
+
+.img{
+height: 400px;
+width: 400px;
+}
+
+.img1{
+  height: 400;
+  width: 200;
+}
